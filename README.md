@@ -1,3 +1,3 @@
 <p align="center">
-  <img src="animation.svg" width="100%" alt="">
+  <img src="persona-3-reload-train-sunset.gif" width="100%" alt="">
 </p>
